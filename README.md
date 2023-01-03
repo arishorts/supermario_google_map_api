@@ -2,13 +2,16 @@
 
 ## Description
 
-This project will show you how to build a custom styled Google map using the Google Cloud Platform and the Google Maps JavaScript API.
+This project demonstrates a custom styled Google map using the Google Cloud Platform and the Google Maps JavaScript API.
 
-- working with google maps API
+- create a Google Cloud Platform project
+- style your map in Google Map Management
+- use the map ID and API key to load the map on your website with the Google Maps JavaScript API
+- use CSS to display and style the map on the website
+- jse the JavaScript API to customize the map settings like center point and zoom
+- create and place custom map markers
 
 ## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Usage](#usage)
 - [Badges](#badges)
@@ -18,12 +21,9 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Usage
 
-The code here requires a Google Cloud Platform API key and a Google Maps custom Map ID in order to work.
-
-The places that need updating are:
-
-- Add the API_KEY and MAP_ID in the `<script>` tag for the Maps API in the `index.html` file
-- Add in the MAP_ID in the `script.js` file
+https://arishorts.github.io/supermario_google_map_api/
+Click the markers for detailed location description.
+![text](./assets/images/screenshot.png)
 
 ## Badges
 
@@ -37,8 +37,9 @@ If you would like to contribute, refer to the [Contributor Covenant](https://www
 
 ## Credits
 
--Google API Overview: https://developers.google.com/maps/documentation/javascript/overlays
--Jessica Chan: Check out the [full project](https://www.codementor.io/projects/build-a-custom-google-maps-theme-bf8levr6eg) on DevProjects by Codementor.
+- Google API Overview: https://developers.google.com/maps/documentation/javascript/overlays
+- Jessica Chan: Check out the [full project](https://www.codementor.io/projects/build-a-custom-google-maps-theme-bf8levr6eg) on DevProjects by Codementor.
+- Youtube Jessica @ https://www.youtube.com/watch?v=CdDXbvBFXLY
 
 ## License
 
