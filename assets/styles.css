@@ -1,0 +1,37 @@
+html {
+  box-sizing: border-box;
+  font-size: 100%;
+  font-size: 62.5%;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: white;
+}
+
+#map {
+  height: 60vh;
+}
+
+h1 {
+  font-family: "Press Start 2P", cursive;
+  text-align: center;
+  font-size: 2rem;
+}
+.gm-style-iw-d {
+  color: #000000;
+}
+
+/*
+Bright Green: rbg(25.1, 81.7, 11.5)
+Dark Green: rbg(32.9, 53.5, 20.2)
+Water: rbg(25.1, , 31)
+Road: rbg(97.5, 90.6, 67.8)*/
