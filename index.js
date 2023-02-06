@@ -1,8 +1,4 @@
 window.initMap = initMap;
-//marker 34.6667539289832, 135.43381208377593
-
-//34.66826019656879, 135.43028233671757
-
 function initMap() {
   // Update MAP_ID with custom map ID
   map = new google.maps.Map(document.getElementById("map"), {
@@ -26,7 +22,7 @@ function initMap() {
       "Yoshi's House",
       34.66669734177897,
       135.4309054875526,
-      "./images/yoshi_house.svg",
+      "yoshi_house.svg",
       38,
       31,
     ],
